@@ -1,4 +1,4 @@
-# Selling account website 
+# Selling account website - Java Serverlet Web :v 
 ## Install
 ```
 git clone https://github.com/nguyenvantien0903/selling-account.git
